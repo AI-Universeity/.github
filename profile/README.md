@@ -1,1 +1,1 @@
-# AI Univers(e)ity is a non-profit initiative in AI education and research.
+## AI Univers(e)ity is a non-profit initiative carrying out education and research activities in AI.
